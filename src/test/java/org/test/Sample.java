@@ -9,5 +9,10 @@ public class Sample {
 	private void m2() {
 		System.out.println("2");
 	}
+	
+	private void z1() {
+		System.out.println("Z");
+
+	}
 
 }
