@@ -15,4 +15,8 @@ public class Sample {
 
 	}
 
+	private void a1() {
+		System.out.println("A");
+	}
+
 }
